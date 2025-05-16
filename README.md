@@ -22,5 +22,8 @@ https://szeliski.org/Book/
 
 ---
 
-## 🚀 Repository Structure
+## 📝 Weekly Tasks
+
+- [Week 1–2](week_1-2/README.md)  
+
 
