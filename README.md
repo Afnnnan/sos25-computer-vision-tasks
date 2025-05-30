@@ -24,6 +24,7 @@ https://szeliski.org/Book/
 
 ## 📝 Weekly Tasks
 
-- [Week 1–2](week_1-2/README.md)  
+- [Week 1–2](week_1-2/README.md)
+- [Week 3–4](week_3-4/README.md)  
 
 
