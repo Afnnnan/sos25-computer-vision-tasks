@@ -27,6 +27,6 @@ https://szeliski.org/Book/
 - [Week 1–2](week_1-2/README.md)
 - [Week 3–4](week_3-4/README.md)
 - [Week 5–6](week_5-6.md)
-- [Week 5–6](week_7-8.md)   
+- [Week 7–8](week_7-8.md)   
 
 
